@@ -18,7 +18,7 @@ export const API_PATH = {
 };
 
 function getPath(path) {
-  return `http://localhost:8080/${path}`;
+  return `https://assignment-of4r.onrender.com/${path}`;
 }
 
 export default API_PATH;
